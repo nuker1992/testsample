@@ -6,6 +6,7 @@
 
 <?php
 echo "Version: re-work-ver";
+  echo "version updated"
 ?>
 
 </body>
